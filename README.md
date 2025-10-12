@@ -1,6 +1,4 @@
 # Qarz-hisoblagich-bot
-Qarzlaringizni tartibli saqlang va eslatma oling. Oddiy, qulay va ishonchli qarz boshqaruv bot.
-🧾 Qarz Hisoblagich Bot
 
 Qarz Hisoblagich Bot – bu Telegram orqali qarzlaringni tartibli yuritish, qarz bergan va olgan odamlaringni yozib borish, valyutani tanlash, hamda qarz muddatini belgilash imkonini beruvchi qulay bot.
 
