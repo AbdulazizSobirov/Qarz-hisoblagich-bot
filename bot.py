@@ -7,7 +7,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import StatesGroup, State
 from aiogram.utils.keyboard import ReplyKeyboardBuilder, InlineKeyboardBuilder
 
-API_TOKEN = "8352782603:AAHnWVUuzDhdL4HU32Er3vy7yuAApKkkuuY"
+API_TOKEN = "bot_token_joylashtir"
 
 bot = Bot(API_TOKEN)
 dp = Dispatcher()
